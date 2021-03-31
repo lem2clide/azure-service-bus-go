@@ -31,7 +31,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Azure/azure-amqp-common-go/v3/uuid"
+	"github.com/lem2clide/azure-amqp-common-go/uuid"
 	"github.com/Azure/azure-sdk-for-go/services/servicebus/mgmt/2015-08-01/servicebus"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
